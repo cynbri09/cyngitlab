@@ -30,7 +30,7 @@ if (isset($_SESSION['user'])) {
 			<label for="psw"><b>Password</b></label>
 			<input type="password" name="password" id="password" />
 			
-			<p>Not a member? <a href="signup.php" style="color:dodgerblue">Sign up</a></p>
+			<p>Not a member? <a href="signup.php" style="color:dodgerblue">Register</a></p>
 			 <div class="clearfix">
 				<input type="submit" name="login" id="login" value="Login" class="button" />
 			</div>
